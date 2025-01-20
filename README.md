@@ -118,6 +118,3 @@ This program uses a color sensor to detect the color red and move the motors acc
 
 This code is open for learning and modification for FTC purposes. Attribution to **Geniuses 19353** when used.
 
----
-
-Let me know if you'd like further adjustments!
