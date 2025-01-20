@@ -1,6 +1,4 @@
-Here's the updated README content with the **Color Sensor Autonomous Mode** included:
 
----
 
 # README for Geniuses 19353 FTC Programming
 
